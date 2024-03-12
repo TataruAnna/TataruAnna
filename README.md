@@ -17,7 +17,7 @@ A passionate backend developer from Romania
 Connect with me:
 bianca-peter #4281
 
-Languages and Tools:
+Languages and Tools:`<br>`
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
