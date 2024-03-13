@@ -14,8 +14,7 @@ A passionate backend developer from Romania
 
 📫 How to reach me anna.tataru@yahoo.com
 
-Connect with me:
-bianca-peter #4281
+
 
 Languages and Tools:  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
