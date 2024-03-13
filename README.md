@@ -2,17 +2,17 @@
 
 
 A passionate backend developer from Romania
-🔭 I’m currently working on reddit app
+🔭 I’m currently working on a CRM app
 
 🌱 I’m currently learning Spring Boot, Java, MySQL
 
 👯 I’m looking to collaborate on backend development
 
-👨‍💻 All of my projects are available at https://github.com/BiancaPeter?tab=repositories
+👨‍💻 All of my projects are available at https://github.com/TataruAnna
 
 💬 Ask me about Spring Boot
 
-📫 How to reach me bianca.peter915@gmail.com
+📫 How to reach me anna.tataru@yahoo.com
 
 Connect with me:
 bianca-peter #4281
